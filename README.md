@@ -18,4 +18,4 @@ Few notes:
 - nice to have - latest PHP mechanisms (ex. traits)
  
  
-Once done, please fork this repository and make a pull request
+Once done, please fork this repository and create a pull request
